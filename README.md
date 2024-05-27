@@ -8,7 +8,7 @@ class AboutMe:
   interested_in = ["Web Development", "Automation", "AI", "Data Science"]
 ```
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Knowledge In:</h3>
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img
