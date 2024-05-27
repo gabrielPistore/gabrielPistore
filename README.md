@@ -6,6 +6,7 @@ class AboutMe:
   currently_working_at = "HPE Automotores"
   languages = ["Portuguese", "English"]
   location = "Brazil"
+  interested_in = ["Web Development", "Automation", "AI"]
 ```
 
 <h3 align="left">Languages and Tools:</h3>
