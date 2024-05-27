@@ -3,6 +3,7 @@
 ```python
 class AboutMe:
   name = "Gabriel Pistore"
-  location = "Brazil"
+  currently_working_at = "HPE Automotores"
   languages = ["Portuguese", "English"]
+  location = "Brazil"
 ```
