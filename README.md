@@ -3,10 +3,10 @@
 ```python
 class AboutMe:
   name = "Gabriel Pistore"
-  currently_working_at = "HPE Automotores"
   languages = ["Portuguese", "English"]
   location = "Brazil"
   interested_in = ["Web Development", "Automation", "AI"]
+  currently_working_at = "HPE Automotores"
 ```
 
 <h3 align="left">Languages and Tools:</h3>
