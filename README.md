@@ -5,8 +5,7 @@ class AboutMe:
   name = "Gabriel Pistore"
   languages = ["Portuguese", "English"]
   location = "Brazil"
-  interested_in = ["Web Development", "Automation", "AI"]
-  currently_working_at = "HPE Automotores"
+  interested_in = ["Web Development", "Automation", "AI", "Data Science"]
 ```
 
 <h3 align="left">Languages and Tools:</h3>
