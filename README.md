@@ -1,12 +1,11 @@
-## Hi there 👋
+- 👋 Hi, I’m Gabriel Pistore
+- 👀 I’m interested in Web Development, Automation and AI
+- 🌱 I’m currently learning Django and React, and wanting to learn Ruby
+- 💞️ I’m currently working at HPE Automotores as PDI Intern
+- 📫 How to reach me: 
+  - 📧 devgbpistore@gmail.com
 
-```python
-class AboutMe:
-  name = "Gabriel Pistore"
-  languages = ["Portuguese", "English"]
-  location = "Brazil"
-  interested_in = ["Web Development", "Automation", "AI", "Data Science"]
-```
+##
 
 <h3 align="left">Knowledge In:</h3>
 <p align="left">
