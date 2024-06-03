@@ -7,7 +7,6 @@
 
 ##
 
-<h3 align="left">Knowledge In:</h3>
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img
