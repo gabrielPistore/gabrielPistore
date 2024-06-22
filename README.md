@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Gabriel Pistore
-- 👀 I’m interested in Web Development, Automation and AI
-- 🌱 I’m currently learning Django and React
-- 💞️ I’m currently working at HPE Automotores as PDI Intern
+- 👀 I’m interested in Web Development and Networking
+- 🌱 I’m currently learning Django
+- 💼 I’m currently working at HPE Automotores as PDI Intern
