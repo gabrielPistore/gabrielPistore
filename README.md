@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Gabriel Pistore 
-I'm passionate about both Web Development, where I love crafting interactive web experiences, and Automation. Currently diving into Django and DRF to build powerful web applications.
+I am passionate about both web development and automation. I love crafting interactive web experiences and am currently diving into Django and the Django Rest Framework (DRF) to build powerful web applications.
 
 ### Skills
 #### Programming Languages
